@@ -1,6 +1,6 @@
 name = "simple-a"
 license = "MIT"
-licenselink = "https://github.com/AlexFinn/simple-a/blob/master/LICENSE.md"
+licenselink = ""
 description = "Minimalistic Hugo theme"
 min_version = 0.57
 
@@ -10,4 +10,4 @@ features = ["blog", ]
 [author]
     name = "HannahEscandon"
     homepage = ""
-    source_repo = "https://github.com/AlexFinn/simple-a"
+    source_repo = ""
